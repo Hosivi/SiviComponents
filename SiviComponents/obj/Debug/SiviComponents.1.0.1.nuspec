@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SiviComponents</id>
+    <version>1.0.1</version>
+    <title>SiviComponents</title>
+    <authors>SiviComponents</authors>
+    <description>Componentes Blazor</description>
+    <repository url="https://github.com/Hosivi/SiviComponents.git" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Blazored.SessionStorage" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation" version="11.5.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="7.0.3" exclude="Build,Analyzers" />
+        <dependency id="SVSharedKernel" version="0.0.1" exclude="Build,Analyzers" />
+        <dependency id="SiviUtils" version="1.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net7.0/.github/workflows/dotnet.yml" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\bin\Debug\net7.0\SiviComponents.dll" target="lib\net7.0\SiviComponents.dll" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\.github\workflows\dotnet.yml" target="content\.github\workflows\dotnet.yml" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\.github\workflows\dotnet.yml" target="contentFiles\any\net7.0\.github\workflows\dotnet.yml" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\wwwroot\background.png" target="staticwebassets\background.png" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\wwwroot\css\sivicomponents.css" target="staticwebassets\css\sivicomponents.css" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\wwwroot\css\styles.css" target="staticwebassets\css\styles.css" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\wwwroot\css\styles.css.map" target="staticwebassets\css\styles.css.map" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\wwwroot\exampleJsInterop.js" target="staticwebassets\exampleJsInterop.js" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\wwwroot\js\SVDropDownList.js" target="staticwebassets\js\SVDropDownList.js" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\wwwroot\js\SVToolTip.js" target="staticwebassets\js\SVToolTip.js" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\wwwroot\js\bootstrap.min.js" target="staticwebassets\js\bootstrap.min.js" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\wwwroot\js\bootstrap.min.js.map" target="staticwebassets\js\bootstrap.min.js.map" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\obj\Debug\net7.0\staticwebassets\msbuild.SiviComponents.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\obj\Debug\net7.0\staticwebassets\msbuild.build.SiviComponents.props" target="build\SiviComponents.props" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SiviComponents.props" target="buildMultiTargeting\SiviComponents.props" />
+    <file src="E:\DeveloperRepos2023\SiviComponents\SiviComponents\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SiviComponents.props" target="buildTransitive\SiviComponents.props" />
+  </files>
+</package>

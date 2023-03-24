@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "E:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\wwwroot\\css\\sivicomponents.css",
+      "PackagePath": "staticwebassets\\css\\sivicomponents.css"
+    },
+    {
+      "Id": "E:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "E:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\wwwroot\\css\\styles.css.map",
+      "PackagePath": "staticwebassets\\css\\styles.css.map"
+    },
+    {
+      "Id": "E:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "E:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\wwwroot\\js\\SVDropDownList.js",
+      "PackagePath": "staticwebassets\\js\\SVDropDownList.js"
+    },
+    {
+      "Id": "E:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\wwwroot\\js\\SVToolTip.js",
+      "PackagePath": "staticwebassets\\js\\SVToolTip.js"
+    },
+    {
+      "Id": "E:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SiviComponents.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SiviComponents.props",
+      "PackagePath": "build\\SiviComponents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SiviComponents.props",
+      "PackagePath": "buildMultiTargeting\\SiviComponents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SiviComponents.props",
+      "PackagePath": "buildTransitive\\SiviComponents.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

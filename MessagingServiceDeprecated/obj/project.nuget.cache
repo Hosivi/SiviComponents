@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1o6xtW10Pw9UnzlUXy6tvGhdsnoZlIJ7ZIsKzN9M++jH4ErgfFcoBfV4lobGVzyW4sG25NjM21TPMVvSmGxUZw==",
+  "success": true,
+  "projectFilePath": "E:\\DeveloperRepos2023\\SiviComponents\\MessagingServiceDeprecated\\MessagingService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hosiv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
