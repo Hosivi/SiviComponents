@@ -63,11 +63,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DeveloperRepos2023\\SiviComponents\\MessagingServiceDeprecated\\MessagingService.csproj",
+      "projectUniqueName": "E:\\DeveloperRepos2023\\SiviComponents\\MessagingService\\MessagingService.csproj",
       "projectName": "MessagingService",
-      "projectPath": "E:\\DeveloperRepos2023\\SiviComponents\\MessagingServiceDeprecated\\MessagingService.csproj",
+      "projectPath": "E:\\DeveloperRepos2023\\SiviComponents\\MessagingService\\MessagingService.csproj",
       "packagesPath": "C:\\Users\\hosiv\\.nuget\\packages\\",
-      "outputPath": "E:\\DeveloperRepos2023\\SiviComponents\\MessagingServiceDeprecated\\obj\\",
+      "outputPath": "E:\\DeveloperRepos2023\\SiviComponents\\MessagingService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

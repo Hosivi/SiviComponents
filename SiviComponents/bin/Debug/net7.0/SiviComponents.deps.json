@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "SiviComponents/1.0.1": {
+      "SiviComponents/1.0.0": {
         "dependencies": {
           "Blazored.SessionStorage": "2.2.0",
           "FluentValidation": "11.5.1",
@@ -179,7 +179,7 @@
     }
   },
   "libraries": {
-    "SiviComponents/1.0.1": {
+    "SiviComponents/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

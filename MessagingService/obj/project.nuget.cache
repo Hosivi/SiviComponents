@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1o6xtW10Pw9UnzlUXy6tvGhdsnoZlIJ7ZIsKzN9M++jH4ErgfFcoBfV4lobGVzyW4sG25NjM21TPMVvSmGxUZw==",
+  "dgSpecHash": "x9Rnns7akHxLys79ovOp8hsdZIczzkhsNWmrMs3aC4w14SsLMclW+5gA87ZD3OQGHBdqlI1QCdMo1ZokTNGYwA==",
   "success": true,
-  "projectFilePath": "E:\\DeveloperRepos2023\\SiviComponents\\MessagingServiceDeprecated\\MessagingService.csproj",
+  "projectFilePath": "E:\\DeveloperRepos2023\\SiviComponents\\MessagingService\\MessagingService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hosiv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],

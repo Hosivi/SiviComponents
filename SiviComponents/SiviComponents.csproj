@@ -86,7 +86,6 @@
         <Content Update="Templates\SVLoginForm.razor">
             <CustomToolNamespace>SiviComponents.Templates</CustomToolNamespace>
         </Content>
-        <Content Include=".github\workflows\dotnet.yml" />
     </ItemGroup>
     <ItemGroup>
         <Compile Update="Base\SiviDomComponentBase.cs">
