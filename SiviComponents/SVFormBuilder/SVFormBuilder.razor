@@ -13,32 +13,51 @@
 @typeparam TModel where TModel : class
 <CascadingValue Value="this" Name="FormBuilder">
 	<SVSpinner @ref="Spin" ExternalRendering="true">
-	<SVForm Model="FormModel">
-		@if (Configuration.Columns == 1) {
-			@if (Configuration.FieldSets.Any()) {
-				@foreach (var fs in Configuration.FieldSets) {
-					<SVFieldSet TModel="TModel" Title="@fs.FormTitle">
-						@foreach (var f in fs.FormControls) {
-							<SVFormElement TModel="TModel" FieldConfiguration="@f" FormModel="@FormModel" FormMode="@FormMode"/>
-						}
-					</SVFieldSet>
-				}
-			} else {
-				foreach (var f in Configuration.FormControls) {
-					<SVFormElement TModel="TModel" FieldConfiguration="@f" FormModel="@FormModel" FormMode="@FormMode"></SVFormElement>
-				}
-			}
-		} else {
-			@if (Configuration.FieldSets.Any()) {
-				<div class="flex-multicolumn-container">
-					@foreach (var fs in Configuration.FieldSets) {
-						<SVFieldSet TModel="TModel" Title="@fs.FormTitle">
-							<div class="flex-multicolumn-subcontainer">
-								@foreach (var f in fs.FormControls) {
-									<SVFormElement TModel="TModel" FieldConfiguration="@f" FormModel="@FormModel" FormMode="@FormMode"></SVFormElement>
-								}
-							</div>
-							<style>
+        <SVForm Model = "FormModel" >
+            <div class="form-block"><h5 class="h5 text-center">@FormTittle</h5> </div>
+            @if (Configuration.Columns == 1) {
+                @if (Configuration.FieldSets.Any()) {
+                    @foreach (var fs in Configuration.FieldSets) {
+                        <SVFieldSet
+                            TModel = "TModel"
+                            Title = "@fs.FormTitle" >
+                            @foreach (var f in fs.FormControls) {
+                                <SVFormElement
+                                    TModel = "TModel"
+                                    FieldConfiguration = "@f"
+                                    FormModel = "@FormModel"
+                                    FormMode = "@FormMode"/>
+                            }
+                        </SVFieldSet>
+                    }
+                } else {
+                    foreach (var f in Configuration.FormControls) {
+                        <SVFormElement
+                            TModel = "TModel"
+                            FieldConfiguration = "@f"
+                            FormModel = "@FormModel"
+                            FormMode = "@FormMode" ></SVFormElement>
+                    }
+                }
+            } else {
+                @if (Configuration.FieldSets.Any()) {
+                    <div
+                        class = "flex-multicolumn-container" >
+                        @foreach (var fs in Configuration.FieldSets) {
+                            <SVFieldSet
+                                TModel = "TModel"
+                                Title = "@fs.FormTitle" >
+                                <div
+                                    class = "flex-multicolumn-subcontainer" >
+                                    @foreach (var f in fs.FormControls) {
+                                        <SVFormElement
+                                            TModel = "TModel"
+                                            FieldConfiguration = "@f"
+                                            FormModel = "@FormModel"
+                                            FormMode = "@FormMode" ></SVFormElement>
+                                    }
+                                </div>
+                                <style>
 								.flex-multicolumn-subcontainer {
 									display: inline-grid;
 									grid-template-columns: repeat(@($"{fs.Columns}"), 1fr);
@@ -46,48 +65,62 @@
 									width: 100%;
 								}
 							</style>
-						</SVFieldSet>
-					}
-				</div>
-			} else {
-				<div class="flex-multicolumn-container">
-					@foreach (var f in Configuration.FormControls) {
-						<SVFormElement TModel="TModel" FieldConfiguration="@f" FormModel="@FormModel" FormMode="@FormMode"></SVFormElement>
-					}
-				</div>
-			}
-			<style>
+                            </SVFieldSet>
+                        }
+                    </div>
+                } else {
+                    <div
+                        class = "flex-multicolumn-container" >
+                        @foreach (var f in Configuration.FormControls) {
+                            <SVFormElement
+                                TModel = "TModel"
+                                FieldConfiguration = "@f"
+                                FormModel = "@FormModel"
+                                FormMode = "@FormMode" ></SVFormElement>
+                        }
+                    </div>
+                }
+                <style>
 				.flex-multicolumn-container {
 					display: grid;
 					grid-template-columns: repeat(@($"{Configuration.Columns}"), 1fr);
 					column-gap: 1rem;
 				}
 			</style>
-		}
-		@if (FormModel is not null) {
-			<div class="form-block">
-				<h5 class="h5 text-center">@FormTittle</h5>
-			</div>
-			<div class="form-block text-center">
-				@if (FormMode == FormMode.Create) {
-					<Button Type="primary" Onclick="@(async () => await Submit())">@SubmitButtonText</Button>
-				} else if (FormMode == FormMode.Edit) {
-					<Button Type="primary" Onclick="@(async () => await Submit())">@EditButtonText</Button>
-				} else if (FormMode == FormMode.Read) {
-					<Button Type="primary" Onclick="@OnEditMode">Cambiar a modo edición</Button>
-				}
-			</div>
-			@if (IsHaveValidation) {
-				<ValidationComponent TValue="TModel" Model="FormModel" @ref="validationComponent"></ValidationComponent>
-			}
-			<div class="form-container">
-			</div>
-		}
+            }
+            @if (FormModel is not null) {
 
-		<style>
+                <div
+                    class = "form-block text-center" >
+                    @if (FormMode == FormMode.Create) {
+                        <Button
+                            Type = "primary"
+                            Onclick = "@(async () => await Submit())" >@SubmitButtonText</Button>
+                    } else if (FormMode == FormMode.Edit) {
+                        <Button
+                            Type = "primary"
+                            Onclick = "@(async () => await Submit())" >@EditButtonText</Button>
+                    } else if (FormMode == FormMode.Read) {
+                        <Button
+                            Type = "primary"
+                            Onclick = "@OnEditMode" >Cambiar a modo edición</Button>
+                    }
+                </div>
+                @if (IsHaveValidation) {
+                    <ValidationComponent
+                        TValue = "TModel"
+                        Model = "FormModel"
+                        @ref = "validationComponent" ></ValidationComponent>
+                }
+                <div
+                    class = "form-container" >
+                </div>
+            }
+
+            <style>
 			.form-container { width: 100%; }
 		</style>
-	</SVForm>
+        </SVForm>
 	@* <button @onclick="Tester"> *@
 	@* 	boton *@
 	@* </button> *@
