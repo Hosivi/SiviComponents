@@ -2,8 +2,10 @@
 using System.Data.Common;
 using System.Linq.Expressions;
 using System.Runtime.CompilerServices;
+using Microsoft.AspNetCore.Components;
 using SiviComponents.DataGrid;
 using SiviComponents.FormBuilder;
+using SiviComponents.Menu;
 using Utils;
 
 namespace SiviComponents.SVFormBuilder;
@@ -124,6 +126,10 @@ public class FieldConfiguration<TModel> where TModel : class
 	public bool ConditionalRendering { get; set; } =true;
 	public Action<SVFormBuilder<object>> Action { get; set; }
 	public Action<SVFormElement<TModel>> WhenModelStateHasChanged { get; set; }
+	public Action<NavItem>? OnButtonNavigate { get; set; }
+	public string? ButtonType { get; set; } = "primary";
+	public Action<Object?>? Onclick { get; set; }
+
 	
 }
 
@@ -169,6 +175,23 @@ public enum FormControlType
 	Button, 
 	Input
 }
+public enum FormMode
+{
+	
+	Create,
+	Edit,
+	Read, 
+	NoSubmitButton,
+	ReadWithOutSubmitButton,
+}
+// public enum CustomType
+// {
+// 	Select,
+// 	Switch,
+// 	Checkbox,
+// 	Button
+// }
+
 
 public enum InputType
 {

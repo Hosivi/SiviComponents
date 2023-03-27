@@ -34,3 +34,15 @@ E:\DeveloperRepos2023\SiviComponents\MessagingServiceDeprecated\obj\Debug\net7.0
 E:\DeveloperRepos2023\SiviComponents\MessagingServiceDeprecated\obj\Debug\net7.0\refint\MessagingService.dll
 E:\DeveloperRepos2023\SiviComponents\MessagingServiceDeprecated\obj\Debug\net7.0\MessagingService.pdb
 E:\DeveloperRepos2023\SiviComponents\MessagingServiceDeprecated\obj\Debug\net7.0\ref\MessagingService.dll
+E:\DeveloperRepos2023\SiviComponents\MessagingService\bin\Debug\net7.0\MessagingService.deps.json
+E:\DeveloperRepos2023\SiviComponents\MessagingService\bin\Debug\net7.0\MessagingService.dll
+E:\DeveloperRepos2023\SiviComponents\MessagingService\bin\Debug\net7.0\MessagingService.pdb
+E:\DeveloperRepos2023\SiviComponents\MessagingService\obj\Debug\net7.0\MessagingService.csproj.AssemblyReference.cache
+E:\DeveloperRepos2023\SiviComponents\MessagingService\obj\Debug\net7.0\MessagingService.GeneratedMSBuildEditorConfig.editorconfig
+E:\DeveloperRepos2023\SiviComponents\MessagingService\obj\Debug\net7.0\MessagingService.AssemblyInfoInputs.cache
+E:\DeveloperRepos2023\SiviComponents\MessagingService\obj\Debug\net7.0\MessagingService.AssemblyInfo.cs
+E:\DeveloperRepos2023\SiviComponents\MessagingService\obj\Debug\net7.0\MessagingService.csproj.CoreCompileInputs.cache
+E:\DeveloperRepos2023\SiviComponents\MessagingService\obj\Debug\net7.0\MessagingService.dll
+E:\DeveloperRepos2023\SiviComponents\MessagingService\obj\Debug\net7.0\refint\MessagingService.dll
+E:\DeveloperRepos2023\SiviComponents\MessagingService\obj\Debug\net7.0\MessagingService.pdb
+E:\DeveloperRepos2023\SiviComponents\MessagingService\obj\Debug\net7.0\ref\MessagingService.dll
