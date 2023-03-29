@@ -64,6 +64,13 @@ public class FormConfiguration<TModel>: FieldConfiguration<TModel> where TModel 
 		FormControls.Add(fc);
 		return fc;                                           
 	}
+	public FieldConfiguration<TModel> AddButton()
+	{
+		var fc = new FieldConfiguration<TModel>();
+		fc.FormControlType = FormControlType.Button;
+		FormControls.Add(fc);
+		return fc;
+	}
 }
 
 public class FieldSetConfiguration<TModel>: FormConfiguration<TModel> where TModel : class
@@ -127,8 +134,9 @@ public class FieldConfiguration<TModel> where TModel : class
 	public Action<SVFormBuilder<object>> Action { get; set; }
 	public Action<SVFormElement<TModel>> WhenModelStateHasChanged { get; set; }
 	public Action<NavItem>? OnButtonNavigate { get; set; }
+	public NavItem NavItem { get; set; }
 	public string? ButtonType { get; set; } = "primary";
-	public Action<Object?>? Onclick { get; set; }
+	public Action<object>? Onclick { get; set; }
 
 	
 }

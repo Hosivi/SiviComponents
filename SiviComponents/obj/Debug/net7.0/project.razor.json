@@ -9,7 +9,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 206874501,
+        "HashCode": 681275648,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Base.SiviComponentBase",
         "AssemblyName": "SiviComponents",
@@ -27,7 +27,7 @@
         }
       },
       {
-        "HashCode": -996639855,
+        "HashCode": -6916696,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Base.SiviComponentBase",
         "AssemblyName": "SiviComponents",
@@ -46,7 +46,7 @@
         }
       },
       {
-        "HashCode": -635695912,
+        "HashCode": -984985755,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Base.SiviDomComponentBase",
         "AssemblyName": "SiviComponents",
@@ -168,7 +168,7 @@
         }
       },
       {
-        "HashCode": -2038846315,
+        "HashCode": -771746697,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Base.SiviDomComponentBase",
         "AssemblyName": "SiviComponents",
@@ -291,7 +291,7 @@
         }
       },
       {
-        "HashCode": -427475477,
+        "HashCode": 1993042473,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Base.SiviDomComponentBase.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -311,7 +311,7 @@
         }
       },
       {
-        "HashCode": -1870628364,
+        "HashCode": 1454354410,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Base.SiviDomComponentBase.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -332,7 +332,7 @@
         }
       },
       {
-        "HashCode": -126430906,
+        "HashCode": 1666622582,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Base.SVSpinner",
         "AssemblyName": "SiviComponents",
@@ -398,7 +398,7 @@
         }
       },
       {
-        "HashCode": 440464134,
+        "HashCode": -2027587810,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Base.SVSpinner",
         "AssemblyName": "SiviComponents",
@@ -465,7 +465,7 @@
         }
       },
       {
-        "HashCode": -669389197,
+        "HashCode": -2074913390,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Base.SVSpinner.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -485,7 +485,7 @@
         }
       },
       {
-        "HashCode": -160625183,
+        "HashCode": 2127478278,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Base.SVSpinner.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -506,7 +506,7 @@
         }
       },
       {
-        "HashCode": -2104184685,
+        "HashCode": -1852778663,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.PivotGrid.PivotGrid<TValue>",
         "AssemblyName": "SiviComponents",
@@ -538,7 +538,7 @@
         }
       },
       {
-        "HashCode": 510562524,
+        "HashCode": 745053640,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.PivotGrid.PivotGrid<TValue>",
         "AssemblyName": "SiviComponents",
@@ -571,7 +571,7 @@
         }
       },
       {
-        "HashCode": -1552184699,
+        "HashCode": 1943878974,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.ReporterGrid.SVReporterGrid",
         "AssemblyName": "SiviComponents",
@@ -589,7 +589,7 @@
         }
       },
       {
-        "HashCode": 1284909,
+        "HashCode": -1656468608,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.ReporterGrid.SVReporterGrid",
         "AssemblyName": "SiviComponents",
@@ -608,7 +608,7 @@
         }
       },
       {
-        "HashCode": -1289783118,
+        "HashCode": 989881397,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.SVCell<TValue>",
         "AssemblyName": "SiviComponents",
@@ -714,7 +714,7 @@
         }
       },
       {
-        "HashCode": 658206428,
+        "HashCode": -1085782716,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.SVCell<TValue>",
         "AssemblyName": "SiviComponents",
@@ -821,7 +821,7 @@
         }
       },
       {
-        "HashCode": -280218824,
+        "HashCode": 1667018262,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVCell<TValue>.Template",
         "AssemblyName": "SiviComponents",
@@ -841,7 +841,7 @@
         }
       },
       {
-        "HashCode": -1223557709,
+        "HashCode": 1302769239,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVCell<TValue>.Template",
         "AssemblyName": "SiviComponents",
@@ -862,7 +862,7 @@
         }
       },
       {
-        "HashCode": 245711598,
+        "HashCode": -1044266903,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVCell<TValue>.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -882,7 +882,7 @@
         }
       },
       {
-        "HashCode": -1924567896,
+        "HashCode": -483033775,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVCell<TValue>.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -903,7 +903,7 @@
         }
       },
       {
-        "HashCode": -1315390244,
+        "HashCode": 245566984,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.SVColumn",
         "AssemblyName": "SiviComponents",
@@ -999,7 +999,7 @@
         }
       },
       {
-        "HashCode": 1767672891,
+        "HashCode": -1838668111,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.SVColumn",
         "AssemblyName": "SiviComponents",
@@ -1096,7 +1096,7 @@
         }
       },
       {
-        "HashCode": 2040909560,
+        "HashCode": 1406716261,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVColumn.Template",
         "AssemblyName": "SiviComponents",
@@ -1116,7 +1116,7 @@
         }
       },
       {
-        "HashCode": 1696609347,
+        "HashCode": 76893805,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVColumn.Template",
         "AssemblyName": "SiviComponents",
@@ -1137,7 +1137,7 @@
         }
       },
       {
-        "HashCode": 846416427,
+        "HashCode": 1154514479,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVColumn.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -1157,7 +1157,7 @@
         }
       },
       {
-        "HashCode": -2079705168,
+        "HashCode": 335171777,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVColumn.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -1178,7 +1178,7 @@
         }
       },
       {
-        "HashCode": 1890980752,
+        "HashCode": 2127919207,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVColumn.FilterCellTemplate",
         "AssemblyName": "SiviComponents",
@@ -1198,7 +1198,7 @@
         }
       },
       {
-        "HashCode": 333133795,
+        "HashCode": 1412971694,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVColumn.FilterCellTemplate",
         "AssemblyName": "SiviComponents",
@@ -1219,7 +1219,7 @@
         }
       },
       {
-        "HashCode": 1450825431,
+        "HashCode": 34006652,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.SVDataGrid<TValue>",
         "AssemblyName": "SiviComponents",
@@ -1432,7 +1432,7 @@
         }
       },
       {
-        "HashCode": -1211444516,
+        "HashCode": 1282581716,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.SVDataGrid<TValue>",
         "AssemblyName": "SiviComponents",
@@ -1646,7 +1646,7 @@
         }
       },
       {
-        "HashCode": 1545426286,
+        "HashCode": 397725456,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVDataGrid<TValue>.SVColumns",
         "AssemblyName": "SiviComponents",
@@ -1667,7 +1667,7 @@
         }
       },
       {
-        "HashCode": -1665821047,
+        "HashCode": -492476027,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVDataGrid<TValue>.SVColumns",
         "AssemblyName": "SiviComponents",
@@ -1689,7 +1689,7 @@
         }
       },
       {
-        "HashCode": -1771993916,
+        "HashCode": -1780310564,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVDataGrid<TValue>.SVContent",
         "AssemblyName": "SiviComponents",
@@ -1709,7 +1709,7 @@
         }
       },
       {
-        "HashCode": -1474535711,
+        "HashCode": -919922647,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVDataGrid<TValue>.SVContent",
         "AssemblyName": "SiviComponents",
@@ -1730,7 +1730,7 @@
         }
       },
       {
-        "HashCode": 1894332262,
+        "HashCode": 1522522495,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVDataGrid<TValue>.ItemContent",
         "AssemblyName": "SiviComponents",
@@ -1762,7 +1762,7 @@
         }
       },
       {
-        "HashCode": -895069598,
+        "HashCode": -1449468882,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVDataGrid<TValue>.ItemContent",
         "AssemblyName": "SiviComponents",
@@ -1795,7 +1795,7 @@
         }
       },
       {
-        "HashCode": 183168958,
+        "HashCode": 645834515,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVDataGrid<TValue>.SVDataGridTools",
         "AssemblyName": "SiviComponents",
@@ -1815,7 +1815,7 @@
         }
       },
       {
-        "HashCode": -214417200,
+        "HashCode": 822651941,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVDataGrid<TValue>.SVDataGridTools",
         "AssemblyName": "SiviComponents",
@@ -1836,7 +1836,7 @@
         }
       },
       {
-        "HashCode": -2003465868,
+        "HashCode": -2103259920,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.SVPaginator<TValue>",
         "AssemblyName": "SiviComponents",
@@ -1905,7 +1905,7 @@
         }
       },
       {
-        "HashCode": -555247301,
+        "HashCode": 576361618,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.SVPaginator<TValue>",
         "AssemblyName": "SiviComponents",
@@ -1975,7 +1975,7 @@
         }
       },
       {
-        "HashCode": 1717034240,
+        "HashCode": -188356829,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.SVRow<TValue>",
         "AssemblyName": "SiviComponents",
@@ -2045,7 +2045,7 @@
         }
       },
       {
-        "HashCode": 432397083,
+        "HashCode": -383863579,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.SVRow<TValue>",
         "AssemblyName": "SiviComponents",
@@ -2116,7 +2116,7 @@
         }
       },
       {
-        "HashCode": 607799826,
+        "HashCode": 1268857892,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.SVTool",
         "AssemblyName": "SiviComponents",
@@ -2205,7 +2205,7 @@
         }
       },
       {
-        "HashCode": -1138473647,
+        "HashCode": -1899859620,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DataGrid.SVTool",
         "AssemblyName": "SiviComponents",
@@ -2295,7 +2295,7 @@
         }
       },
       {
-        "HashCode": -225246631,
+        "HashCode": 1567486834,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVTool.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -2315,7 +2315,7 @@
         }
       },
       {
-        "HashCode": 732883597,
+        "HashCode": 484572168,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DataGrid.SVTool.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -2336,7 +2336,7 @@
         }
       },
       {
-        "HashCode": -294289747,
+        "HashCode": -1809097183,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DateComponents.SVDatePickerComponent",
         "AssemblyName": "SiviComponents",
@@ -2571,7 +2571,7 @@
         }
       },
       {
-        "HashCode": -1544985004,
+        "HashCode": 973854424,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DateComponents.SVDatePickerComponent",
         "AssemblyName": "SiviComponents",
@@ -2807,7 +2807,7 @@
         }
       },
       {
-        "HashCode": -303723528,
+        "HashCode": 195933910,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DateComponents.SVDatePickerComponent.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -2827,7 +2827,7 @@
         }
       },
       {
-        "HashCode": 641067220,
+        "HashCode": -804517662,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DateComponents.SVDatePickerComponent.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -2848,7 +2848,7 @@
         }
       },
       {
-        "HashCode": -1973621458,
+        "HashCode": 1339468525,
         "Kind": "Components.Component",
         "Name": "SiviComponents.FormBuilder.FormBuilder<TValue>",
         "AssemblyName": "SiviComponents",
@@ -2968,7 +2968,7 @@
         }
       },
       {
-        "HashCode": 1495474013,
+        "HashCode": 606598417,
         "Kind": "Components.Component",
         "Name": "SiviComponents.FormBuilder.FormBuilder<TValue>",
         "AssemblyName": "SiviComponents",
@@ -3089,7 +3089,7 @@
         }
       },
       {
-        "HashCode": 1228060707,
+        "HashCode": -2030081778,
         "Kind": "Components.Component",
         "Name": "SiviComponents.FormBuilder.FormElement<TValue>",
         "AssemblyName": "SiviComponents",
@@ -3151,7 +3151,7 @@
         }
       },
       {
-        "HashCode": -1407540671,
+        "HashCode": 1646723994,
         "Kind": "Components.Component",
         "Name": "SiviComponents.FormBuilder.FormElement<TValue>",
         "AssemblyName": "SiviComponents",
@@ -3214,7 +3214,7 @@
         }
       },
       {
-        "HashCode": -211575761,
+        "HashCode": 58404269,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVInputBase<TValue>",
         "AssemblyName": "SiviComponents",
@@ -3466,7 +3466,7 @@
         }
       },
       {
-        "HashCode": -1839103790,
+        "HashCode": -2057990222,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVInputBase<TValue>",
         "AssemblyName": "SiviComponents",
@@ -3719,7 +3719,7 @@
         }
       },
       {
-        "HashCode": 1484930051,
+        "HashCode": -1546974228,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVInputBase<TValue>.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -3739,7 +3739,7 @@
         }
       },
       {
-        "HashCode": 673554278,
+        "HashCode": -1177659568,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVInputBase<TValue>.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -3760,7 +3760,7 @@
         }
       },
       {
-        "HashCode": -2016594796,
+        "HashCode": 966540433,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.Button",
         "AssemblyName": "SiviComponents",
@@ -3958,7 +3958,7 @@
         }
       },
       {
-        "HashCode": 476114122,
+        "HashCode": 1681231632,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.Button",
         "AssemblyName": "SiviComponents",
@@ -4157,7 +4157,7 @@
         }
       },
       {
-        "HashCode": 1899069713,
+        "HashCode": -2140687781,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.Button.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -4177,7 +4177,7 @@
         }
       },
       {
-        "HashCode": -151166839,
+        "HashCode": 1799052640,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.Button.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -4198,7 +4198,7 @@
         }
       },
       {
-        "HashCode": -1750156696,
+        "HashCode": 1183946724,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVFieldSet<TModel>",
         "AssemblyName": "SiviComponents",
@@ -4458,7 +4458,7 @@
         }
       },
       {
-        "HashCode": 1566470993,
+        "HashCode": 942537982,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVFieldSet<TModel>",
         "AssemblyName": "SiviComponents",
@@ -4719,7 +4719,7 @@
         }
       },
       {
-        "HashCode": -1673350977,
+        "HashCode": 1988442138,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVFieldSet<TModel>.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -4739,7 +4739,7 @@
         }
       },
       {
-        "HashCode": 1520138036,
+        "HashCode": -1535299734,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVFieldSet<TModel>.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -4760,7 +4760,7 @@
         }
       },
       {
-        "HashCode": -2117271818,
+        "HashCode": 916001655,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVForm",
         "AssemblyName": "SiviComponents",
@@ -4799,7 +4799,7 @@
         }
       },
       {
-        "HashCode": 1855148993,
+        "HashCode": -1627422202,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVForm",
         "AssemblyName": "SiviComponents",
@@ -4839,7 +4839,7 @@
         }
       },
       {
-        "HashCode": -2006336254,
+        "HashCode": 57089776,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVForm.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -4859,7 +4859,7 @@
         }
       },
       {
-        "HashCode": -1142401575,
+        "HashCode": 776065692,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVForm.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -4880,7 +4880,7 @@
         }
       },
       {
-        "HashCode": -1480566397,
+        "HashCode": -1733898041,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVInput<TValue>",
         "AssemblyName": "SiviComponents",
@@ -5140,7 +5140,7 @@
         }
       },
       {
-        "HashCode": 864915247,
+        "HashCode": -981285817,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVInput<TValue>",
         "AssemblyName": "SiviComponents",
@@ -5401,7 +5401,7 @@
         }
       },
       {
-        "HashCode": 1962672442,
+        "HashCode": 475840468,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVInput<TValue>.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -5421,7 +5421,7 @@
         }
       },
       {
-        "HashCode": -714911061,
+        "HashCode": -775270834,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVInput<TValue>.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -5442,7 +5442,7 @@
         }
       },
       {
-        "HashCode": -1810164630,
+        "HashCode": 888342644,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVInputGroup",
         "AssemblyName": "SiviComponents",
@@ -5460,7 +5460,7 @@
         }
       },
       {
-        "HashCode": -1717547434,
+        "HashCode": -688341597,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVInputGroup",
         "AssemblyName": "SiviComponents",
@@ -5479,7 +5479,7 @@
         }
       },
       {
-        "HashCode": 1906564305,
+        "HashCode": -1193302212,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVInputNumber",
         "AssemblyName": "SiviComponents",
@@ -5714,7 +5714,7 @@
         }
       },
       {
-        "HashCode": -954579625,
+        "HashCode": -2041739997,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVInputNumber",
         "AssemblyName": "SiviComponents",
@@ -5950,7 +5950,7 @@
         }
       },
       {
-        "HashCode": -991236310,
+        "HashCode": -1056803899,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVInputNumber.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -5970,7 +5970,7 @@
         }
       },
       {
-        "HashCode": -1821779821,
+        "HashCode": 1348914537,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVInputNumber.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -5991,7 +5991,7 @@
         }
       },
       {
-        "HashCode": -666413154,
+        "HashCode": -1272892515,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVInputPassword",
         "AssemblyName": "SiviComponents",
@@ -6226,7 +6226,7 @@
         }
       },
       {
-        "HashCode": -240415862,
+        "HashCode": 749107078,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVInputPassword",
         "AssemblyName": "SiviComponents",
@@ -6462,7 +6462,7 @@
         }
       },
       {
-        "HashCode": 869619741,
+        "HashCode": -2030225981,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVInputPassword.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -6482,7 +6482,7 @@
         }
       },
       {
-        "HashCode": 1443171009,
+        "HashCode": -381212690,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVInputPassword.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -6503,7 +6503,7 @@
         }
       },
       {
-        "HashCode": 1407186400,
+        "HashCode": -1413813053,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVInputRadio",
         "AssemblyName": "SiviComponents",
@@ -6766,7 +6766,7 @@
         }
       },
       {
-        "HashCode": 1334783256,
+        "HashCode": 1114942184,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVInputRadio",
         "AssemblyName": "SiviComponents",
@@ -7030,7 +7030,7 @@
         }
       },
       {
-        "HashCode": 539953438,
+        "HashCode": -31746995,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVInputRadio.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -7050,7 +7050,7 @@
         }
       },
       {
-        "HashCode": -677337400,
+        "HashCode": 1961774769,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVInputRadio.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -7071,7 +7071,7 @@
         }
       },
       {
-        "HashCode": -715720185,
+        "HashCode": 1459348104,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVInputText",
         "AssemblyName": "SiviComponents",
@@ -7315,7 +7315,7 @@
         }
       },
       {
-        "HashCode": -1168305534,
+        "HashCode": 517120952,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVInputText",
         "AssemblyName": "SiviComponents",
@@ -7560,7 +7560,7 @@
         }
       },
       {
-        "HashCode": 961819926,
+        "HashCode": 1053718977,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVInputText.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -7580,7 +7580,7 @@
         }
       },
       {
-        "HashCode": -1308125158,
+        "HashCode": 497294282,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVInputText.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -7601,7 +7601,7 @@
         }
       },
       {
-        "HashCode": 500486348,
+        "HashCode": -105845565,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVSwitch",
         "AssemblyName": "SiviComponents",
@@ -7874,7 +7874,7 @@
         }
       },
       {
-        "HashCode": 196823982,
+        "HashCode": -1862087953,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.SVSwitch",
         "AssemblyName": "SiviComponents",
@@ -8148,7 +8148,7 @@
         }
       },
       {
-        "HashCode": 943744810,
+        "HashCode": -354591810,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVSwitch.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -8168,7 +8168,7 @@
         }
       },
       {
-        "HashCode": -2116465825,
+        "HashCode": -593323860,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Forms.SVSwitch.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -8189,7 +8189,7 @@
         }
       },
       {
-        "HashCode": -1960673867,
+        "HashCode": 720176828,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.ValidationComponent<TValue>",
         "AssemblyName": "SiviComponents",
@@ -8250,7 +8250,7 @@
         }
       },
       {
-        "HashCode": -953172679,
+        "HashCode": -251430844,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Forms.ValidationComponent<TValue>",
         "AssemblyName": "SiviComponents",
@@ -8312,7 +8312,7 @@
         }
       },
       {
-        "HashCode": -1305333199,
+        "HashCode": 1985162057,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Menu.MenuBar",
         "AssemblyName": "SiviComponents",
@@ -8359,7 +8359,7 @@
         }
       },
       {
-        "HashCode": -748401971,
+        "HashCode": -1424260318,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Menu.MenuBar",
         "AssemblyName": "SiviComponents",
@@ -8407,7 +8407,7 @@
         }
       },
       {
-        "HashCode": -173770403,
+        "HashCode": -1324351004,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Menu.NavItemComponent",
         "AssemblyName": "SiviComponents",
@@ -8583,7 +8583,7 @@
         }
       },
       {
-        "HashCode": 94373332,
+        "HashCode": 593825305,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Menu.NavItemComponent",
         "AssemblyName": "SiviComponents",
@@ -8760,7 +8760,7 @@
         }
       },
       {
-        "HashCode": 2011670289,
+        "HashCode": 1370340022,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Menu.NavItemComponent.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -8780,7 +8780,7 @@
         }
       },
       {
-        "HashCode": 597578780,
+        "HashCode": -1763856068,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Menu.NavItemComponent.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -8801,7 +8801,7 @@
         }
       },
       {
-        "HashCode": 1958185942,
+        "HashCode": -1428768395,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Menu.SiviNavLink",
         "AssemblyName": "SiviComponents",
@@ -8960,7 +8960,7 @@
         }
       },
       {
-        "HashCode": -553714040,
+        "HashCode": 420907160,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Menu.SiviNavLink",
         "AssemblyName": "SiviComponents",
@@ -9120,7 +9120,7 @@
         }
       },
       {
-        "HashCode": -654779991,
+        "HashCode": 1334465164,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Menu.SiviNavLink.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -9140,7 +9140,7 @@
         }
       },
       {
-        "HashCode": 389284536,
+        "HashCode": 2039893973,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Menu.SiviNavLink.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -9161,7 +9161,7 @@
         }
       },
       {
-        "HashCode": -745219337,
+        "HashCode": -1853506220,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Modal.SVModal",
         "AssemblyName": "SiviComponents",
@@ -9321,7 +9321,7 @@
         }
       },
       {
-        "HashCode": -1055366108,
+        "HashCode": 858117021,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Modal.SVModal",
         "AssemblyName": "SiviComponents",
@@ -9482,7 +9482,7 @@
         }
       },
       {
-        "HashCode": 1307261701,
+        "HashCode": -1534473878,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Modal.SVModal.ModalBody",
         "AssemblyName": "SiviComponents",
@@ -9502,7 +9502,7 @@
         }
       },
       {
-        "HashCode": 400142799,
+        "HashCode": -1257965413,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Modal.SVModal.ModalBody",
         "AssemblyName": "SiviComponents",
@@ -9523,7 +9523,7 @@
         }
       },
       {
-        "HashCode": 1978264442,
+        "HashCode": -1627783136,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Modal.SVModal.ModalFooter",
         "AssemblyName": "SiviComponents",
@@ -9543,7 +9543,7 @@
         }
       },
       {
-        "HashCode": -488834605,
+        "HashCode": 2114005413,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Modal.SVModal.ModalFooter",
         "AssemblyName": "SiviComponents",
@@ -9564,7 +9564,7 @@
         }
       },
       {
-        "HashCode": -14959664,
+        "HashCode": -1530532023,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Modal.SVModal.CustomButtonsFragment",
         "AssemblyName": "SiviComponents",
@@ -9584,7 +9584,7 @@
         }
       },
       {
-        "HashCode": -551228387,
+        "HashCode": -1775574227,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Modal.SVModal.CustomButtonsFragment",
         "AssemblyName": "SiviComponents",
@@ -9605,7 +9605,7 @@
         }
       },
       {
-        "HashCode": -1754583883,
+        "HashCode": 2121132528,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Modal.SVNotificator",
         "AssemblyName": "SiviComponents",
@@ -9706,7 +9706,7 @@
         }
       },
       {
-        "HashCode": -393262658,
+        "HashCode": 73102279,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Modal.SVNotificator",
         "AssemblyName": "SiviComponents",
@@ -9808,7 +9808,7 @@
         }
       },
       {
-        "HashCode": -1815891003,
+        "HashCode": 192232674,
         "Kind": "Components.Component",
         "Name": "SiviComponents.SVFormBuilder.SVFormBuilder<TModel>",
         "AssemblyName": "SiviComponents",
@@ -9892,11 +9892,11 @@
           {
             "Kind": "Components.Component",
             "Name": "FormMode",
-            "TypeName": "SiviComponents.FormBuilder.FormMode",
+            "TypeName": "SiviComponents.SVFormBuilder.FormMode",
             "IsEnum": true,
             "Metadata": {
               "Common.PropertyName": "FormMode",
-              "Common.GloballyQualifiedTypeName": "global::SiviComponents.FormBuilder.FormMode"
+              "Common.GloballyQualifiedTypeName": "global::SiviComponents.SVFormBuilder.FormMode"
             }
           },
           {
@@ -9928,7 +9928,7 @@
         }
       },
       {
-        "HashCode": -482475836,
+        "HashCode": 1894418434,
         "Kind": "Components.Component",
         "Name": "SiviComponents.SVFormBuilder.SVFormBuilder<TModel>",
         "AssemblyName": "SiviComponents",
@@ -10012,11 +10012,11 @@
           {
             "Kind": "Components.Component",
             "Name": "FormMode",
-            "TypeName": "SiviComponents.FormBuilder.FormMode",
+            "TypeName": "SiviComponents.SVFormBuilder.FormMode",
             "IsEnum": true,
             "Metadata": {
               "Common.PropertyName": "FormMode",
-              "Common.GloballyQualifiedTypeName": "global::SiviComponents.FormBuilder.FormMode"
+              "Common.GloballyQualifiedTypeName": "global::SiviComponents.SVFormBuilder.FormMode"
             }
           },
           {
@@ -10049,7 +10049,7 @@
         }
       },
       {
-        "HashCode": 587211205,
+        "HashCode": 1399558610,
         "Kind": "Components.Component",
         "Name": "SiviComponents.SVFormBuilder.SVFormElement<TModel>",
         "AssemblyName": "SiviComponents",
@@ -10085,11 +10085,11 @@
           {
             "Kind": "Components.Component",
             "Name": "FormMode",
-            "TypeName": "SiviComponents.FormBuilder.FormMode",
+            "TypeName": "SiviComponents.SVFormBuilder.FormMode",
             "IsEnum": true,
             "Metadata": {
               "Common.PropertyName": "FormMode",
-              "Common.GloballyQualifiedTypeName": "global::SiviComponents.FormBuilder.FormMode"
+              "Common.GloballyQualifiedTypeName": "global::SiviComponents.SVFormBuilder.FormMode"
             }
           },
           {
@@ -10123,7 +10123,7 @@
         }
       },
       {
-        "HashCode": -1206429562,
+        "HashCode": -19475771,
         "Kind": "Components.Component",
         "Name": "SiviComponents.SVFormBuilder.SVFormElement<TModel>",
         "AssemblyName": "SiviComponents",
@@ -10159,11 +10159,11 @@
           {
             "Kind": "Components.Component",
             "Name": "FormMode",
-            "TypeName": "SiviComponents.FormBuilder.FormMode",
+            "TypeName": "SiviComponents.SVFormBuilder.FormMode",
             "IsEnum": true,
             "Metadata": {
               "Common.PropertyName": "FormMode",
-              "Common.GloballyQualifiedTypeName": "global::SiviComponents.FormBuilder.FormMode"
+              "Common.GloballyQualifiedTypeName": "global::SiviComponents.SVFormBuilder.FormMode"
             }
           },
           {
@@ -10198,7 +10198,7 @@
         }
       },
       {
-        "HashCode": -731809346,
+        "HashCode": 67556557,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DashBoardLayout",
         "AssemblyName": "SiviComponents",
@@ -10274,7 +10274,7 @@
         }
       },
       {
-        "HashCode": -605032955,
+        "HashCode": 807024831,
         "Kind": "Components.Component",
         "Name": "SiviComponents.DashBoardLayout",
         "AssemblyName": "SiviComponents",
@@ -10351,7 +10351,7 @@
         }
       },
       {
-        "HashCode": -1494990658,
+        "HashCode": -1806559967,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DashBoardLayout.LayoutBody",
         "AssemblyName": "SiviComponents",
@@ -10371,7 +10371,7 @@
         }
       },
       {
-        "HashCode": -1874572942,
+        "HashCode": 39775206,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DashBoardLayout.LayoutBody",
         "AssemblyName": "SiviComponents",
@@ -10392,7 +10392,7 @@
         }
       },
       {
-        "HashCode": 1467450483,
+        "HashCode": -898865641,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DashBoardLayout.CustomHeaderNavMenu",
         "AssemblyName": "SiviComponents",
@@ -10412,7 +10412,7 @@
         }
       },
       {
-        "HashCode": 37590392,
+        "HashCode": 1082671348,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.DashBoardLayout.CustomHeaderNavMenu",
         "AssemblyName": "SiviComponents",
@@ -10433,7 +10433,7 @@
         }
       },
       {
-        "HashCode": -1386393176,
+        "HashCode": 1310383856,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Grid.Column",
         "AssemblyName": "SiviComponents",
@@ -10591,7 +10591,7 @@
         }
       },
       {
-        "HashCode": -1600151526,
+        "HashCode": -2036570667,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Grid.Column",
         "AssemblyName": "SiviComponents",
@@ -10750,7 +10750,7 @@
         }
       },
       {
-        "HashCode": -2063419925,
+        "HashCode": 597395377,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Grid.Column.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -10770,7 +10770,7 @@
         }
       },
       {
-        "HashCode": 1766741598,
+        "HashCode": 792892162,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Grid.Column.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -10791,7 +10791,7 @@
         }
       },
       {
-        "HashCode": 1340089838,
+        "HashCode": -726581455,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Grid.Container",
         "AssemblyName": "SiviComponents",
@@ -10913,7 +10913,7 @@
         }
       },
       {
-        "HashCode": 38601507,
+        "HashCode": -1111627196,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Grid.Container",
         "AssemblyName": "SiviComponents",
@@ -11036,7 +11036,7 @@
         }
       },
       {
-        "HashCode": -112889835,
+        "HashCode": 1846383963,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Grid.Container.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -11056,7 +11056,7 @@
         }
       },
       {
-        "HashCode": -883307153,
+        "HashCode": -691488853,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Grid.Container.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -11077,7 +11077,7 @@
         }
       },
       {
-        "HashCode": -1670098193,
+        "HashCode": 328081298,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Grid.Div",
         "AssemblyName": "SiviComponents",
@@ -11199,7 +11199,7 @@
         }
       },
       {
-        "HashCode": 772446377,
+        "HashCode": -1315585094,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Grid.Div",
         "AssemblyName": "SiviComponents",
@@ -11322,7 +11322,7 @@
         }
       },
       {
-        "HashCode": -1053668942,
+        "HashCode": -1544509216,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Grid.Div.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -11342,7 +11342,7 @@
         }
       },
       {
-        "HashCode": 389551528,
+        "HashCode": -802694148,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Grid.Div.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -11363,7 +11363,7 @@
         }
       },
       {
-        "HashCode": -1778585796,
+        "HashCode": 1144313408,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Grid.Row",
         "AssemblyName": "SiviComponents",
@@ -11485,7 +11485,7 @@
         }
       },
       {
-        "HashCode": 1981291952,
+        "HashCode": 2110839915,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Grid.Row",
         "AssemblyName": "SiviComponents",
@@ -11608,7 +11608,7 @@
         }
       },
       {
-        "HashCode": -837783730,
+        "HashCode": 482145642,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Grid.Row.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -11628,7 +11628,7 @@
         }
       },
       {
-        "HashCode": 28272149,
+        "HashCode": -1001827060,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.Grid.Row.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -11649,7 +11649,7 @@
         }
       },
       {
-        "HashCode": -950485604,
+        "HashCode": -2003526862,
         "Kind": "Components.Component",
         "Name": "SiviComponents.SVDropDownSelect.SVDropDownItem<TItem>",
         "AssemblyName": "SiviComponents",
@@ -11711,7 +11711,7 @@
         }
       },
       {
-        "HashCode": 266833837,
+        "HashCode": 319678253,
         "Kind": "Components.Component",
         "Name": "SiviComponents.SVDropDownSelect.SVDropDownItem<TItem>",
         "AssemblyName": "SiviComponents",
@@ -11774,7 +11774,7 @@
         }
       },
       {
-        "HashCode": 430914248,
+        "HashCode": -780233962,
         "Kind": "Components.Component",
         "Name": "SiviComponents.SVDropDownSelect.SVDropDownSelect<TValue>",
         "AssemblyName": "SiviComponents",
@@ -12090,7 +12090,7 @@
         }
       },
       {
-        "HashCode": -1151293270,
+        "HashCode": 150389276,
         "Kind": "Components.Component",
         "Name": "SiviComponents.SVDropDownSelect.SVDropDownSelect<TValue>",
         "AssemblyName": "SiviComponents",
@@ -12407,7 +12407,7 @@
         }
       },
       {
-        "HashCode": -187370881,
+        "HashCode": -2083233948,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.SVDropDownSelect.SVDropDownSelect<TValue>.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -12427,7 +12427,7 @@
         }
       },
       {
-        "HashCode": -765047104,
+        "HashCode": 520665206,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.SVDropDownSelect.SVDropDownSelect<TValue>.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -12448,7 +12448,7 @@
         }
       },
       {
-        "HashCode": -172673044,
+        "HashCode": 1469531205,
         "Kind": "Components.Component",
         "Name": "SiviComponents.SVStepper.Step",
         "AssemblyName": "SiviComponents",
@@ -12532,7 +12532,7 @@
         }
       },
       {
-        "HashCode": -764853429,
+        "HashCode": -437315383,
         "Kind": "Components.Component",
         "Name": "SiviComponents.SVStepper.Step",
         "AssemblyName": "SiviComponents",
@@ -12617,7 +12617,7 @@
         }
       },
       {
-        "HashCode": 723267292,
+        "HashCode": -1519545891,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.SVStepper.Step.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -12637,7 +12637,7 @@
         }
       },
       {
-        "HashCode": -1044690821,
+        "HashCode": -1275340301,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.SVStepper.Step.ChildContent",
         "AssemblyName": "SiviComponents",
@@ -12658,7 +12658,7 @@
         }
       },
       {
-        "HashCode": 1673570213,
+        "HashCode": -258873548,
         "Kind": "Components.Component",
         "Name": "SiviComponents.SVStepper.SVStepper",
         "AssemblyName": "SiviComponents",
@@ -12744,7 +12744,7 @@
         }
       },
       {
-        "HashCode": 468637787,
+        "HashCode": 382165675,
         "Kind": "Components.Component",
         "Name": "SiviComponents.SVStepper.SVStepper",
         "AssemblyName": "SiviComponents",
@@ -12831,7 +12831,7 @@
         }
       },
       {
-        "HashCode": 1369968828,
+        "HashCode": -562953825,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.SVStepper.SVStepper.StepContents",
         "AssemblyName": "SiviComponents",
@@ -12851,7 +12851,7 @@
         }
       },
       {
-        "HashCode": -884994729,
+        "HashCode": -307462644,
         "Kind": "Components.ChildContent",
         "Name": "SiviComponents.SVStepper.SVStepper.StepContents",
         "AssemblyName": "SiviComponents",
@@ -12872,44 +12872,7 @@
         }
       },
       {
-        "HashCode": 1307820323,
-        "Kind": "Components.Component",
-        "Name": "SiviComponents.Templates.SVLoginForm",
-        "AssemblyName": "SiviComponents",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SVLoginForm"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SiviComponents.Templates.SVLoginForm",
-          "Common.TypeNamespace": "SiviComponents.Templates",
-          "Common.TypeNameIdentifier": "SVLoginForm"
-        }
-      },
-      {
-        "HashCode": -1656666240,
-        "Kind": "Components.Component",
-        "Name": "SiviComponents.Templates.SVLoginForm",
-        "AssemblyName": "SiviComponents",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SiviComponents.Templates.SVLoginForm"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SiviComponents.Templates.SVLoginForm",
-          "Common.TypeNamespace": "SiviComponents.Templates",
-          "Common.TypeNameIdentifier": "SVLoginForm",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1527726719,
+        "HashCode": -1713767569,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Timer.SVTimer",
         "AssemblyName": "SiviComponents",
@@ -12927,7 +12890,7 @@
         }
       },
       {
-        "HashCode": -388875689,
+        "HashCode": -151628448,
         "Kind": "Components.Component",
         "Name": "SiviComponents.Timer.SVTimer",
         "AssemblyName": "SiviComponents",
@@ -12946,7 +12909,7 @@
         }
       },
       {
-        "HashCode": 743350450,
+        "HashCode": -1356364508,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13021,7 +12984,7 @@
         }
       },
       {
-        "HashCode": 1820117748,
+        "HashCode": -1509991217,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13097,7 +13060,7 @@
         }
       },
       {
-        "HashCode": -180704591,
+        "HashCode": -1961180886,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13118,7 +13081,7 @@
         }
       },
       {
-        "HashCode": -693215133,
+        "HashCode": -1043872563,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13140,7 +13103,7 @@
         }
       },
       {
-        "HashCode": 903587442,
+        "HashCode": -1251602955,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13182,7 +13145,7 @@
         }
       },
       {
-        "HashCode": 961871517,
+        "HashCode": 930579171,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13225,7 +13188,7 @@
         }
       },
       {
-        "HashCode": -492297359,
+        "HashCode": 1686608121,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13267,7 +13230,7 @@
         }
       },
       {
-        "HashCode": -1223694124,
+        "HashCode": 1445986677,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13310,7 +13273,7 @@
         }
       },
       {
-        "HashCode": -613701200,
+        "HashCode": 406394309,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13331,7 +13294,7 @@
         }
       },
       {
-        "HashCode": -39012538,
+        "HashCode": -39471943,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13353,7 +13316,7 @@
         }
       },
       {
-        "HashCode": -1299756291,
+        "HashCode": -114155157,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13395,7 +13358,7 @@
         }
       },
       {
-        "HashCode": -1340347589,
+        "HashCode": 1133364535,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13438,7 +13401,7 @@
         }
       },
       {
-        "HashCode": 1758162218,
+        "HashCode": 1500927240,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13546,7 +13509,7 @@
         }
       },
       {
-        "HashCode": 540262331,
+        "HashCode": 348075273,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13655,7 +13618,7 @@
         }
       },
       {
-        "HashCode": -827722654,
+        "HashCode": -709220287,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13676,7 +13639,7 @@
         }
       },
       {
-        "HashCode": -382473927,
+        "HashCode": 754227341,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13698,7 +13661,7 @@
         }
       },
       {
-        "HashCode": 1009965470,
+        "HashCode": 1028660355,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13731,7 +13694,7 @@
         }
       },
       {
-        "HashCode": 1773283970,
+        "HashCode": 1106956817,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13765,7 +13728,7 @@
         }
       },
       {
-        "HashCode": 796986297,
+        "HashCode": -556184707,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13786,7 +13749,7 @@
         }
       },
       {
-        "HashCode": -1669365827,
+        "HashCode": -1190702555,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13808,7 +13771,7 @@
         }
       },
       {
-        "HashCode": 1321573095,
+        "HashCode": -2018850399,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -13827,7 +13790,7 @@
         }
       },
       {
-        "HashCode": -1651848042,
+        "HashCode": -517916302,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -13847,7 +13810,7 @@
         }
       },
       {
-        "HashCode": 1615887079,
+        "HashCode": 351841530,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -13952,7 +13915,7 @@
         }
       },
       {
-        "HashCode": -1344114982,
+        "HashCode": 565925244,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -14058,7 +14021,7 @@
         }
       },
       {
-        "HashCode": -627304122,
+        "HashCode": 714142115,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -14091,7 +14054,7 @@
         }
       },
       {
-        "HashCode": 1339583396,
+        "HashCode": -1860595409,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -14125,7 +14088,7 @@
         }
       },
       {
-        "HashCode": -218670063,
+        "HashCode": -634531408,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -14197,7 +14160,7 @@
         }
       },
       {
-        "HashCode": 752126291,
+        "HashCode": 1124086530,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -14270,7 +14233,7 @@
         }
       },
       {
-        "HashCode": 642512178,
+        "HashCode": -1015645246,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -14378,7 +14341,7 @@
         }
       },
       {
-        "HashCode": 799678680,
+        "HashCode": -1206398527,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -14487,7 +14450,7 @@
         }
       },
       {
-        "HashCode": -14920029,
+        "HashCode": 714245272,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -14529,7 +14492,7 @@
         }
       },
       {
-        "HashCode": 1296770,
+        "HashCode": 2030656730,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -14572,7 +14535,7 @@
         }
       },
       {
-        "HashCode": 1376717386,
+        "HashCode": 1775185157,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -14669,7 +14632,7 @@
         }
       },
       {
-        "HashCode": -2049173893,
+        "HashCode": -434214098,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -14767,7 +14730,7 @@
         }
       },
       {
-        "HashCode": 1259836799,
+        "HashCode": -1010259523,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -14831,7 +14794,7 @@
         }
       },
       {
-        "HashCode": -20259769,
+        "HashCode": -1058164818,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -14896,7 +14859,7 @@
         }
       },
       {
-        "HashCode": -1497311506,
+        "HashCode": -1755218037,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15004,7 +14967,7 @@
         }
       },
       {
-        "HashCode": 1781297507,
+        "HashCode": -1430527356,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15113,7 +15076,7 @@
         }
       },
       {
-        "HashCode": -1716759603,
+        "HashCode": -371697271,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15134,7 +15097,7 @@
         }
       },
       {
-        "HashCode": -300513636,
+        "HashCode": 224409525,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15156,7 +15119,7 @@
         }
       },
       {
-        "HashCode": 2053351216,
+        "HashCode": 577934304,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15254,7 +15217,7 @@
         }
       },
       {
-        "HashCode": 178021031,
+        "HashCode": 1471998250,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15353,7 +15316,7 @@
         }
       },
       {
-        "HashCode": -1825907675,
+        "HashCode": 1330461907,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15374,7 +15337,7 @@
         }
       },
       {
-        "HashCode": -1250364161,
+        "HashCode": 611368218,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15396,7 +15359,7 @@
         }
       },
       {
-        "HashCode": 1573786597,
+        "HashCode": -2042057566,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15468,7 +15431,7 @@
         }
       },
       {
-        "HashCode": 829012108,
+        "HashCode": -384176805,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15541,7 +15504,7 @@
         }
       },
       {
-        "HashCode": -239290488,
+        "HashCode": 587306194,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15613,7 +15576,7 @@
         }
       },
       {
-        "HashCode": 1244640934,
+        "HashCode": 233107106,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15686,7 +15649,7 @@
         }
       },
       {
-        "HashCode": -927091690,
+        "HashCode": 1165417891,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15740,7 +15703,7 @@
         }
       },
       {
-        "HashCode": -1474158179,
+        "HashCode": 2037482030,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15795,7 +15758,7 @@
         }
       },
       {
-        "HashCode": -342461888,
+        "HashCode": -269241262,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15836,7 +15799,7 @@
         }
       },
       {
-        "HashCode": -765972075,
+        "HashCode": 1707154386,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15878,7 +15841,7 @@
         }
       },
       {
-        "HashCode": 2037060120,
+        "HashCode": 58739858,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15919,7 +15882,7 @@
         }
       },
       {
-        "HashCode": 872287011,
+        "HashCode": 1694883986,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15961,7 +15924,7 @@
         }
       },
       {
-        "HashCode": 982284848,
+        "HashCode": 899372894,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16003,7 +15966,7 @@
         }
       },
       {
-        "HashCode": 2069958648,
+        "HashCode": -140288326,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16046,7 +16009,7 @@
         }
       },
       {
-        "HashCode": 1653001447,
+        "HashCode": -580811155,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16109,7 +16072,7 @@
         }
       },
       {
-        "HashCode": -1265112774,
+        "HashCode": -1084229064,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16173,7 +16136,7 @@
         }
       },
       {
-        "HashCode": -1448025777,
+        "HashCode": -1508511005,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16194,7 +16157,7 @@
         }
       },
       {
-        "HashCode": -906451248,
+        "HashCode": 2011793858,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16216,7 +16179,7 @@
         }
       },
       {
-        "HashCode": -1079288581,
+        "HashCode": 30528754,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16248,7 +16211,7 @@
         }
       },
       {
-        "HashCode": 644438447,
+        "HashCode": 697129778,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16281,7 +16244,7 @@
         }
       },
       {
-        "HashCode": 1497315151,
+        "HashCode": -170196198,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16302,7 +16265,7 @@
         }
       },
       {
-        "HashCode": 1049417990,
+        "HashCode": 1602584816,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16324,7 +16287,7 @@
         }
       },
       {
-        "HashCode": 2115871786,
+        "HashCode": 1559778055,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16343,7 +16306,7 @@
         }
       },
       {
-        "HashCode": 1017686804,
+        "HashCode": 1096944059,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16363,7 +16326,7 @@
         }
       },
       {
-        "HashCode": -707493794,
+        "HashCode": -1826112938,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16395,7 +16358,7 @@
         }
       },
       {
-        "HashCode": -1780948814,
+        "HashCode": -2099961984,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16428,7 +16391,7 @@
         }
       },
       {
-        "HashCode": 351239209,
+        "HashCode": -1325780667,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16449,7 +16412,7 @@
         }
       },
       {
-        "HashCode": -1343424881,
+        "HashCode": 1879870584,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16471,7 +16434,7 @@
         }
       },
       {
-        "HashCode": 1134716820,
+        "HashCode": 295462594,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16534,7 +16497,7 @@
         }
       },
       {
-        "HashCode": 435080797,
+        "HashCode": -473434296,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16598,7 +16561,7 @@
         }
       },
       {
-        "HashCode": 540515633,
+        "HashCode": -1273919539,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16619,7 +16582,7 @@
         }
       },
       {
-        "HashCode": 1400441167,
+        "HashCode": 1260879193,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16641,7 +16604,7 @@
         }
       },
       {
-        "HashCode": -731140362,
+        "HashCode": -1876679632,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16674,7 +16637,7 @@
         }
       },
       {
-        "HashCode": 773119638,
+        "HashCode": -671543594,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16708,7 +16671,7 @@
         }
       },
       {
-        "HashCode": 333027634,
+        "HashCode": 1036727912,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16840,7 +16803,7 @@
         }
       },
       {
-        "HashCode": 825148814,
+        "HashCode": 2062314031,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16973,7 +16936,7 @@
         }
       },
       {
-        "HashCode": -2140626740,
+        "HashCode": 217724338,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17006,7 +16969,7 @@
         }
       },
       {
-        "HashCode": -153427289,
+        "HashCode": -421583514,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17040,7 +17003,7 @@
         }
       },
       {
-        "HashCode": 268297062,
+        "HashCode": -417731805,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17073,7 +17036,7 @@
         }
       },
       {
-        "HashCode": 135727839,
+        "HashCode": -692612952,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17107,7 +17070,7 @@
         }
       },
       {
-        "HashCode": 486011076,
+        "HashCode": -1703637204,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17140,7 +17103,7 @@
         }
       },
       {
-        "HashCode": 1323739790,
+        "HashCode": -405243313,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17174,7 +17137,7 @@
         }
       },
       {
-        "HashCode": 1495947489,
+        "HashCode": 660615564,
         "Kind": "Components.EventHandler",
         "Name": "onclickdom",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17257,7 +17220,7 @@
         }
       },
       {
-        "HashCode": 135366802,
+        "HashCode": -155955491,
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17340,7 +17303,7 @@
         }
       },
       {
-        "HashCode": -1273268588,
+        "HashCode": -1771261246,
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17423,7 +17386,7 @@
         }
       },
       {
-        "HashCode": -531930020,
+        "HashCode": -517510937,
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17506,7 +17469,7 @@
         }
       },
       {
-        "HashCode": 1367256160,
+        "HashCode": 1476231015,
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17589,7 +17552,7 @@
         }
       },
       {
-        "HashCode": -760307262,
+        "HashCode": 1648393761,
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17672,7 +17635,7 @@
         }
       },
       {
-        "HashCode": 558520400,
+        "HashCode": 1961736734,
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17755,7 +17718,7 @@
         }
       },
       {
-        "HashCode": 707553940,
+        "HashCode": -1962826889,
         "Kind": "Components.EventHandler",
         "Name": "onmouseleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17838,7 +17801,7 @@
         }
       },
       {
-        "HashCode": 1257027072,
+        "HashCode": 1285608022,
         "Kind": "Components.EventHandler",
         "Name": "onmouseenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17921,7 +17884,7 @@
         }
       },
       {
-        "HashCode": -1811033784,
+        "HashCode": 1691811000,
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18004,7 +17967,7 @@
         }
       },
       {
-        "HashCode": -1437086455,
+        "HashCode": -1658062384,
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18087,7 +18050,7 @@
         }
       },
       {
-        "HashCode": 1643178074,
+        "HashCode": 1003954510,
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18170,7 +18133,7 @@
         }
       },
       {
-        "HashCode": 1230557900,
+        "HashCode": -621330345,
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18253,7 +18216,7 @@
         }
       },
       {
-        "HashCode": -1255252334,
+        "HashCode": 239593491,
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18336,7 +18299,7 @@
         }
       },
       {
-        "HashCode": 734532023,
+        "HashCode": -835960417,
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18419,7 +18382,7 @@
         }
       },
       {
-        "HashCode": 283407725,
+        "HashCode": 1906925063,
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18502,7 +18465,7 @@
         }
       },
       {
-        "HashCode": -656560666,
+        "HashCode": 26082691,
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18585,7 +18548,7 @@
         }
       },
       {
-        "HashCode": 1321951952,
+        "HashCode": 597426548,
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18668,7 +18631,7 @@
         }
       },
       {
-        "HashCode": 92296618,
+        "HashCode": -1884897524,
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18751,7 +18714,7 @@
         }
       },
       {
-        "HashCode": 981255078,
+        "HashCode": -885728281,
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18834,7 +18797,7 @@
         }
       },
       {
-        "HashCode": -1670619832,
+        "HashCode": -953345026,
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18917,7 +18880,7 @@
         }
       },
       {
-        "HashCode": -2009755394,
+        "HashCode": -1267117805,
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19000,7 +18963,7 @@
         }
       },
       {
-        "HashCode": -1300268278,
+        "HashCode": -612280130,
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19083,7 +19046,7 @@
         }
       },
       {
-        "HashCode": -2072759015,
+        "HashCode": -319026868,
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19166,7 +19129,7 @@
         }
       },
       {
-        "HashCode": 823717180,
+        "HashCode": 1420635211,
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19249,7 +19212,7 @@
         }
       },
       {
-        "HashCode": -1682654530,
+        "HashCode": 1700265,
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19332,7 +19295,7 @@
         }
       },
       {
-        "HashCode": 1636802497,
+        "HashCode": 421402583,
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19415,7 +19378,7 @@
         }
       },
       {
-        "HashCode": 662146384,
+        "HashCode": -1515468160,
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19498,7 +19461,7 @@
         }
       },
       {
-        "HashCode": -980480035,
+        "HashCode": -1486592481,
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19581,7 +19544,7 @@
         }
       },
       {
-        "HashCode": 717012637,
+        "HashCode": -2062607824,
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19664,7 +19627,7 @@
         }
       },
       {
-        "HashCode": 1769058219,
+        "HashCode": 1365397566,
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19747,7 +19710,7 @@
         }
       },
       {
-        "HashCode": 1277368868,
+        "HashCode": -586765886,
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19830,7 +19793,7 @@
         }
       },
       {
-        "HashCode": -2091815680,
+        "HashCode": 907033645,
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19913,7 +19876,7 @@
         }
       },
       {
-        "HashCode": 643098942,
+        "HashCode": 747467197,
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19996,7 +19959,7 @@
         }
       },
       {
-        "HashCode": -328676855,
+        "HashCode": -458664949,
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -20079,7 +20042,7 @@
         }
       },
       {
-        "HashCode": -1479413420,
+        "HashCode": 446085453,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -20162,7 +20125,7 @@
         }
       },
       {
-        "HashCode": 879234933,
+        "HashCode": -1515400477,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -20245,7 +20208,7 @@
         }
       },
       {
-        "HashCode": -1236097030,
+        "HashCode": -2057775063,
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -20328,7 +20291,7 @@
         }
       },
       {
-        "HashCode": -783999529,
+        "HashCode": -1891434282,
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -20411,7 +20374,7 @@
         }
       },
       {
-        "HashCode": -187718685,
+        "HashCode": -1511061127,
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -20494,7 +20457,7 @@
         }
       },
       {
-        "HashCode": -1334961584,
+        "HashCode": -1906289320,
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -20577,7 +20540,7 @@
         }
       },
       {
-        "HashCode": 751665212,
+        "HashCode": 1450397193,
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -20660,7 +20623,7 @@
         }
       },
       {
-        "HashCode": 1657974885,
+        "HashCode": 1472947827,
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -20743,7 +20706,7 @@
         }
       },
       {
-        "HashCode": 216312447,
+        "HashCode": 2116906079,
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -20826,7 +20789,7 @@
         }
       },
       {
-        "HashCode": 1058154864,
+        "HashCode": -1076199955,
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -20909,7 +20872,7 @@
         }
       },
       {
-        "HashCode": -879121960,
+        "HashCode": 903363937,
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -20992,7 +20955,7 @@
         }
       },
       {
-        "HashCode": 285795332,
+        "HashCode": -1612252972,
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -21075,7 +21038,7 @@
         }
       },
       {
-        "HashCode": -1086487822,
+        "HashCode": 14723500,
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -21158,7 +21121,7 @@
         }
       },
       {
-        "HashCode": 1771999936,
+        "HashCode": 1395381128,
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -21241,7 +21204,7 @@
         }
       },
       {
-        "HashCode": -659784769,
+        "HashCode": -267811218,
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -21324,7 +21287,7 @@
         }
       },
       {
-        "HashCode": 1813299756,
+        "HashCode": 1255579456,
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -21407,7 +21370,7 @@
         }
       },
       {
-        "HashCode": 1725643476,
+        "HashCode": -663675527,
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -21490,7 +21453,7 @@
         }
       },
       {
-        "HashCode": 349342391,
+        "HashCode": 55590006,
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -21573,7 +21536,7 @@
         }
       },
       {
-        "HashCode": 383794668,
+        "HashCode": 172070020,
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -21656,7 +21619,7 @@
         }
       },
       {
-        "HashCode": -212739374,
+        "HashCode": 2054984885,
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -21739,7 +21702,7 @@
         }
       },
       {
-        "HashCode": 316220261,
+        "HashCode": 377089786,
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -21822,7 +21785,7 @@
         }
       },
       {
-        "HashCode": 381079072,
+        "HashCode": 693852347,
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -21905,7 +21868,7 @@
         }
       },
       {
-        "HashCode": 1712093773,
+        "HashCode": 1021216499,
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -21988,7 +21951,7 @@
         }
       },
       {
-        "HashCode": 700189975,
+        "HashCode": -1203671561,
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -22071,7 +22034,7 @@
         }
       },
       {
-        "HashCode": 1677776085,
+        "HashCode": -235776787,
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -22154,7 +22117,7 @@
         }
       },
       {
-        "HashCode": 1372516277,
+        "HashCode": 851920128,
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -22237,7 +22200,7 @@
         }
       },
       {
-        "HashCode": 1123208243,
+        "HashCode": 529241320,
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -22320,7 +22283,7 @@
         }
       },
       {
-        "HashCode": 1530159730,
+        "HashCode": -316015195,
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -22403,7 +22366,7 @@
         }
       },
       {
-        "HashCode": -1235640861,
+        "HashCode": -911033873,
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -22486,7 +22449,7 @@
         }
       },
       {
-        "HashCode": 1395495317,
+        "HashCode": -892857557,
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -22569,7 +22532,7 @@
         }
       },
       {
-        "HashCode": -1769768672,
+        "HashCode": -1943965812,
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -22652,7 +22615,7 @@
         }
       },
       {
-        "HashCode": 975751509,
+        "HashCode": 1026036900,
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -22735,7 +22698,7 @@
         }
       },
       {
-        "HashCode": 356957525,
+        "HashCode": 1243725334,
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -22818,7 +22781,7 @@
         }
       },
       {
-        "HashCode": -1674515773,
+        "HashCode": 606381786,
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -22901,7 +22864,7 @@
         }
       },
       {
-        "HashCode": 174986465,
+        "HashCode": -1095872598,
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -22984,7 +22947,7 @@
         }
       },
       {
-        "HashCode": -1749772115,
+        "HashCode": 2090886845,
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -23067,7 +23030,7 @@
         }
       },
       {
-        "HashCode": -164694670,
+        "HashCode": -2095391011,
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -23150,7 +23113,7 @@
         }
       },
       {
-        "HashCode": 152455857,
+        "HashCode": -955933228,
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -23233,7 +23196,7 @@
         }
       },
       {
-        "HashCode": -188365777,
+        "HashCode": -2084410327,
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -23316,7 +23279,7 @@
         }
       },
       {
-        "HashCode": -203080586,
+        "HashCode": 595440093,
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -23399,7 +23362,7 @@
         }
       },
       {
-        "HashCode": -791394924,
+        "HashCode": -1664627036,
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -23482,7 +23445,7 @@
         }
       },
       {
-        "HashCode": -136035057,
+        "HashCode": -468902805,
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -23565,7 +23528,7 @@
         }
       },
       {
-        "HashCode": 2034275479,
+        "HashCode": 869159231,
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -23648,7 +23611,7 @@
         }
       },
       {
-        "HashCode": -1014754333,
+        "HashCode": 186538037,
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -23731,7 +23694,7 @@
         }
       },
       {
-        "HashCode": -2010897641,
+        "HashCode": 1426147428,
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -23814,7 +23777,7 @@
         }
       },
       {
-        "HashCode": -742656285,
+        "HashCode": 1663366126,
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -23897,7 +23860,7 @@
         }
       },
       {
-        "HashCode": 785476022,
+        "HashCode": 1791810348,
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -23980,7 +23943,7 @@
         }
       },
       {
-        "HashCode": -879382118,
+        "HashCode": -456981271,
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -24063,7 +24026,7 @@
         }
       },
       {
-        "HashCode": -1718062703,
+        "HashCode": 289722776,
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -24146,7 +24109,7 @@
         }
       },
       {
-        "HashCode": 898529535,
+        "HashCode": 81656836,
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -24229,7 +24192,7 @@
         }
       },
       {
-        "HashCode": 782705620,
+        "HashCode": 1343022825,
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -24312,7 +24275,7 @@
         }
       },
       {
-        "HashCode": -147401283,
+        "HashCode": 1174695412,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -24395,7 +24358,7 @@
         }
       },
       {
-        "HashCode": -910154321,
+        "HashCode": 304471981,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -24478,7 +24441,7 @@
         }
       },
       {
-        "HashCode": 31248881,
+        "HashCode": 805082326,
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -24561,7 +24524,7 @@
         }
       },
       {
-        "HashCode": 1140162652,
+        "HashCode": -346017727,
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -24644,7 +24607,7 @@
         }
       },
       {
-        "HashCode": -289191101,
+        "HashCode": -898518577,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -24727,7 +24690,7 @@
         }
       },
       {
-        "HashCode": 418370732,
+        "HashCode": 1804761681,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -24810,7 +24773,7 @@
         }
       },
       {
-        "HashCode": -38146346,
+        "HashCode": -1421530199,
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -24893,7 +24856,7 @@
         }
       },
       {
-        "HashCode": 973529873,
+        "HashCode": -1332193336,
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -24976,7 +24939,7 @@
         }
       },
       {
-        "HashCode": 1130539639,
+        "HashCode": -1962284403,
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -25059,7 +25022,7 @@
         }
       },
       {
-        "HashCode": -362214555,
+        "HashCode": 2095458835,
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -25098,7 +25061,7 @@
         }
       },
       {
-        "HashCode": -1265778189,
+        "HashCode": 950556177,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -25194,7 +25157,7 @@
         }
       },
       {
-        "HashCode": 320806148,
+        "HashCode": -1120126874,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -25316,7 +25279,7 @@
         }
       },
       {
-        "HashCode": -812564926,
+        "HashCode": -89303212,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -25438,7 +25401,7 @@
         }
       },
       {
-        "HashCode": -52946722,
+        "HashCode": -370380126,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -25571,7 +25534,7 @@
         }
       },
       {
-        "HashCode": -663587307,
+        "HashCode": 583599290,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -25704,7 +25667,7 @@
         }
       },
       {
-        "HashCode": 1730985536,
+        "HashCode": -2047441338,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -25837,7 +25800,7 @@
         }
       },
       {
-        "HashCode": -1034132920,
+        "HashCode": -1348234772,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -25970,7 +25933,7 @@
         }
       },
       {
-        "HashCode": -1400664623,
+        "HashCode": 160405566,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -26103,7 +26066,7 @@
         }
       },
       {
-        "HashCode": -322567606,
+        "HashCode": 1951444202,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -26236,7 +26199,7 @@
         }
       },
       {
-        "HashCode": 486603321,
+        "HashCode": -1832984432,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -26369,7 +26332,7 @@
         }
       },
       {
-        "HashCode": -1123284256,
+        "HashCode": -1184697874,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -26502,7 +26465,7 @@
         }
       },
       {
-        "HashCode": 189530204,
+        "HashCode": 1485254827,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -26635,7 +26598,7 @@
         }
       },
       {
-        "HashCode": 399587456,
+        "HashCode": -1228941435,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -26768,7 +26731,7 @@
         }
       },
       {
-        "HashCode": -795724461,
+        "HashCode": 551038572,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -26901,7 +26864,7 @@
         }
       },
       {
-        "HashCode": 1832132680,
+        "HashCode": -1377204362,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -27034,7 +26997,7 @@
         }
       },
       {
-        "HashCode": -1250908897,
+        "HashCode": -1882646329,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -27156,7 +27119,7 @@
         }
       },
       {
-        "HashCode": 1948966332,
+        "HashCode": -1718312152,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -27278,7 +27241,7 @@
         }
       },
       {
-        "HashCode": -1369044595,
+        "HashCode": -1470109135,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.DateComponents.SVDatePickerComponent",
         "AssemblyName": "SiviComponents",
@@ -27365,7 +27328,7 @@
         }
       },
       {
-        "HashCode": -347302378,
+        "HashCode": 1201777726,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.DateComponents.SVDatePickerComponent",
         "AssemblyName": "SiviComponents",
@@ -27453,7 +27416,7 @@
         }
       },
       {
-        "HashCode": 1893957206,
+        "HashCode": 1013789744,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVInputBase<TValue>",
         "AssemblyName": "SiviComponents",
@@ -27540,7 +27503,7 @@
         }
       },
       {
-        "HashCode": -1773011316,
+        "HashCode": 1311909096,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVInputBase<TValue>",
         "AssemblyName": "SiviComponents",
@@ -27628,7 +27591,7 @@
         }
       },
       {
-        "HashCode": 1175091971,
+        "HashCode": 2055972784,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVFieldSet<TModel>",
         "AssemblyName": "SiviComponents",
@@ -27715,7 +27678,7 @@
         }
       },
       {
-        "HashCode": -966754078,
+        "HashCode": -191913078,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVFieldSet<TModel>",
         "AssemblyName": "SiviComponents",
@@ -27803,7 +27766,7 @@
         }
       },
       {
-        "HashCode": 707860774,
+        "HashCode": -1296099893,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVInput<TValue>",
         "AssemblyName": "SiviComponents",
@@ -27890,7 +27853,7 @@
         }
       },
       {
-        "HashCode": -461336244,
+        "HashCode": -952449550,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVInput<TValue>",
         "AssemblyName": "SiviComponents",
@@ -27978,7 +27941,7 @@
         }
       },
       {
-        "HashCode": -2043072547,
+        "HashCode": 985128282,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVInputNumber",
         "AssemblyName": "SiviComponents",
@@ -28065,7 +28028,7 @@
         }
       },
       {
-        "HashCode": -1811812486,
+        "HashCode": 65769540,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVInputNumber",
         "AssemblyName": "SiviComponents",
@@ -28153,7 +28116,7 @@
         }
       },
       {
-        "HashCode": -1670882026,
+        "HashCode": 954889819,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVInputPassword",
         "AssemblyName": "SiviComponents",
@@ -28240,7 +28203,7 @@
         }
       },
       {
-        "HashCode": -749591209,
+        "HashCode": -1602599431,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVInputPassword",
         "AssemblyName": "SiviComponents",
@@ -28328,7 +28291,7 @@
         }
       },
       {
-        "HashCode": 2026234529,
+        "HashCode": 681924799,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVInputRadio",
         "AssemblyName": "SiviComponents",
@@ -28414,7 +28377,7 @@
         }
       },
       {
-        "HashCode": 1472763273,
+        "HashCode": 1762092724,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVInputRadio",
         "AssemblyName": "SiviComponents",
@@ -28501,7 +28464,7 @@
         }
       },
       {
-        "HashCode": -868224176,
+        "HashCode": 1689661410,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVInputRadio",
         "AssemblyName": "SiviComponents",
@@ -28588,7 +28551,7 @@
         }
       },
       {
-        "HashCode": 662543373,
+        "HashCode": 1996293933,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVInputRadio",
         "AssemblyName": "SiviComponents",
@@ -28676,7 +28639,7 @@
         }
       },
       {
-        "HashCode": 1164032428,
+        "HashCode": -672694478,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVInputText",
         "AssemblyName": "SiviComponents",
@@ -28763,7 +28726,7 @@
         }
       },
       {
-        "HashCode": 400967732,
+        "HashCode": -1981095752,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVInputText",
         "AssemblyName": "SiviComponents",
@@ -28851,7 +28814,7 @@
         }
       },
       {
-        "HashCode": 1614042200,
+        "HashCode": -590543590,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVSwitch",
         "AssemblyName": "SiviComponents",
@@ -28937,7 +28900,7 @@
         }
       },
       {
-        "HashCode": 1638560776,
+        "HashCode": -433989289,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVSwitch",
         "AssemblyName": "SiviComponents",
@@ -29024,7 +28987,7 @@
         }
       },
       {
-        "HashCode": -1494563107,
+        "HashCode": -235661037,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVSwitch",
         "AssemblyName": "SiviComponents",
@@ -29111,7 +29074,7 @@
         }
       },
       {
-        "HashCode": -1332564266,
+        "HashCode": -989021989,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.Forms.SVSwitch",
         "AssemblyName": "SiviComponents",
@@ -29199,7 +29162,7 @@
         }
       },
       {
-        "HashCode": 1946857273,
+        "HashCode": -1224678529,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.SVDropDownSelect.SVDropDownSelect<TValue>",
         "AssemblyName": "SiviComponents",
@@ -29286,7 +29249,7 @@
         }
       },
       {
-        "HashCode": -988544300,
+        "HashCode": 1459136472,
         "Kind": "Components.Bind",
         "Name": "SiviComponents.SVDropDownSelect.SVDropDownSelect<TValue>",
         "AssemblyName": "SiviComponents",
@@ -29374,7 +29337,7 @@
         }
       },
       {
-        "HashCode": -1687570317,
+        "HashCode": -632924064,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -29461,7 +29424,7 @@
         }
       },
       {
-        "HashCode": -1756982997,
+        "HashCode": 745942640,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -29549,7 +29512,7 @@
         }
       },
       {
-        "HashCode": -1286268045,
+        "HashCode": -328337865,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -29636,7 +29599,7 @@
         }
       },
       {
-        "HashCode": -2052179904,
+        "HashCode": 46544110,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -29724,7 +29687,7 @@
         }
       },
       {
-        "HashCode": 95930078,
+        "HashCode": 1311595290,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -29811,7 +29774,7 @@
         }
       },
       {
-        "HashCode": 265966863,
+        "HashCode": -1509094655,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -29899,7 +29862,7 @@
         }
       },
       {
-        "HashCode": -1532907477,
+        "HashCode": -156208038,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -29986,7 +29949,7 @@
         }
       },
       {
-        "HashCode": -59340612,
+        "HashCode": -1824113233,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -30074,7 +30037,7 @@
         }
       },
       {
-        "HashCode": 638270123,
+        "HashCode": 97166847,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -30161,7 +30124,7 @@
         }
       },
       {
-        "HashCode": 677100075,
+        "HashCode": 638565648,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -30249,7 +30212,7 @@
         }
       },
       {
-        "HashCode": 88207827,
+        "HashCode": -53558694,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -30336,7 +30299,7 @@
         }
       },
       {
-        "HashCode": -1825059188,
+        "HashCode": 1546511472,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -30424,7 +30387,7 @@
         }
       },
       {
-        "HashCode": -1746671123,
+        "HashCode": -1429269655,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -30511,7 +30474,7 @@
         }
       },
       {
-        "HashCode": -1217012886,
+        "HashCode": 1017430484,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -30599,7 +30562,7 @@
         }
       },
       {
-        "HashCode": 1689191089,
+        "HashCode": 46734635,
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -30638,7 +30601,7 @@
         }
       },
       {
-        "HashCode": -340485690,
+        "HashCode": -1975964138,
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -30682,153 +30645,13 @@
   "RootNamespace": "SiviComponents",
   "Documents": [
     {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Menu\\NavItemComponent.razor",
-      "TargetPath": "Menu\\NavItemComponent.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\SVFormBuilder\\SVFormBuilder.razor",
-      "TargetPath": "SVFormBuilder\\SVFormBuilder.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DataGrid\\ReporterGrid\\SVReporterGrid.razor",
-      "TargetPath": "DataGrid\\ReporterGrid\\SVReporterGrid.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\SVStepper\\Step.razor",
-      "TargetPath": "SVStepper\\Step.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\ValidationComponent.razor",
-      "TargetPath": "Forms\\ValidationComponent.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Grid\\Row.razor",
-      "TargetPath": "Grid\\Row.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Base\\SVSpinner.razor",
-      "TargetPath": "Base\\SVSpinner.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Timer\\SVTimer.razor",
-      "TargetPath": "Timer\\SVTimer.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVInputGroup.razor",
-      "TargetPath": "Forms\\SVInputGroup.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\Button.razor",
-      "TargetPath": "Forms\\Button.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DataGrid\\SVTool.razor",
-      "TargetPath": "DataGrid\\SVTool.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\SVFormBuilder\\SVFormElement.razor",
-      "TargetPath": "SVFormBuilder\\SVFormElement.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\SVDropDownSelect\\SVDropDownSelect.razor",
-      "TargetPath": "SVDropDownSelect\\SVDropDownSelect.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\FormBuilder\\FormBuilder.razor",
-      "TargetPath": "FormBuilder\\FormBuilder.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Grid\\Div.razor",
-      "TargetPath": "Grid\\Div.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Templates\\SVLoginForm.razor",
-      "TargetPath": "Templates\\SVLoginForm.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Modal\\SVModal.razor",
-      "TargetPath": "Modal\\SVModal.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Grid\\Container.razor",
-      "TargetPath": "Grid\\Container.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DateComponents\\SVDatePickerComponent.razor",
-      "TargetPath": "DateComponents\\SVDatePickerComponent.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVInputRadio.razor",
       "TargetPath": "Forms\\SVInputRadio.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\FormBuilder\\FormElement.razor",
-      "TargetPath": "FormBuilder\\FormElement.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Grid\\Column.razor",
-      "TargetPath": "Grid\\Column.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Menu\\MenuBar.razor",
-      "TargetPath": "Menu\\MenuBar.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVInputNumber.razor",
-      "TargetPath": "Forms\\SVInputNumber.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVSwitch.razor",
-      "TargetPath": "Forms\\SVSwitch.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVInput.razor",
-      "TargetPath": "Forms\\SVInput.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVFieldSet.razor",
-      "TargetPath": "Forms\\SVFieldSet.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DataGrid\\SVDataGrid.razor",
-      "TargetPath": "DataGrid\\SVDataGrid.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\SVDropDownSelect\\SVDropDownItem.razor",
-      "TargetPath": "SVDropDownSelect\\SVDropDownItem.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\SVStepper\\SVStepper.razor",
-      "TargetPath": "SVStepper\\SVStepper.razor",
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVForm.razor",
+      "TargetPath": "Forms\\SVForm.razor",
       "FileKind": "component"
     },
     {
@@ -30837,13 +30660,13 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DataGrid\\SVColumn.razor",
-      "TargetPath": "DataGrid\\SVColumn.razor",
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Timer\\SVTimer.razor",
+      "TargetPath": "Timer\\SVTimer.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DataGrid\\PivotGrid\\PivotGrid.razor",
-      "TargetPath": "DataGrid\\PivotGrid\\PivotGrid.razor",
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Base\\SVSpinner.razor",
+      "TargetPath": "Base\\SVSpinner.razor",
       "FileKind": "component"
     },
     {
@@ -30852,18 +30675,33 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DataGrid\\SVPaginator.razor",
-      "TargetPath": "DataGrid\\SVPaginator.razor",
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVInput.razor",
+      "TargetPath": "Forms\\SVInput.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVInputText.razor",
-      "TargetPath": "Forms\\SVInputText.razor",
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Grid\\Container.razor",
+      "TargetPath": "Grid\\Container.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DataGrid\\SVRow.razor",
-      "TargetPath": "DataGrid\\SVRow.razor",
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\SVFormBuilder\\SVFormElement.razor",
+      "TargetPath": "SVFormBuilder\\SVFormElement.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\SVFormBuilder\\SVFormBuilder.razor",
+      "TargetPath": "SVFormBuilder\\SVFormBuilder.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Menu\\SiviNavLink.razor",
+      "TargetPath": "Menu\\SiviNavLink.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DataGrid\\SVDataGrid.razor",
+      "TargetPath": "DataGrid\\SVDataGrid.razor",
       "FileKind": "component"
     },
     {
@@ -30872,13 +30710,73 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\SVStepper\\Step.razor",
+      "TargetPath": "SVStepper\\Step.razor",
+      "FileKind": "component"
     },
     {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Menu\\SiviNavLink.razor",
-      "TargetPath": "Menu\\SiviNavLink.razor",
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\FormBuilder\\FormElement.razor",
+      "TargetPath": "FormBuilder\\FormElement.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Modal\\SVModal.razor",
+      "TargetPath": "Modal\\SVModal.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DataGrid\\PivotGrid\\PivotGrid.razor",
+      "TargetPath": "DataGrid\\PivotGrid\\PivotGrid.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\SVDropDownSelect\\SVDropDownItem.razor",
+      "TargetPath": "SVDropDownSelect\\SVDropDownItem.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DateComponents\\SVDatePickerComponent.razor",
+      "TargetPath": "DateComponents\\SVDatePickerComponent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\SVStepper\\SVStepper.razor",
+      "TargetPath": "SVStepper\\SVStepper.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\SVDropDownSelect\\SVDropDownSelect.razor",
+      "TargetPath": "SVDropDownSelect\\SVDropDownSelect.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVFieldSet.razor",
+      "TargetPath": "Forms\\SVFieldSet.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DataGrid\\SVRow.razor",
+      "TargetPath": "DataGrid\\SVRow.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DataGrid\\SVTool.razor",
+      "TargetPath": "DataGrid\\SVTool.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Grid\\Div.razor",
+      "TargetPath": "Grid\\Div.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVSwitch.razor",
+      "TargetPath": "Forms\\SVSwitch.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\FormBuilder\\FormBuilder.razor",
+      "TargetPath": "FormBuilder\\FormBuilder.razor",
       "FileKind": "component"
     },
     {
@@ -30887,8 +30785,68 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVForm.razor",
-      "TargetPath": "Forms\\SVForm.razor",
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Menu\\MenuBar.razor",
+      "TargetPath": "Menu\\MenuBar.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Grid\\Column.razor",
+      "TargetPath": "Grid\\Column.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Grid\\Row.razor",
+      "TargetPath": "Grid\\Row.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\Button.razor",
+      "TargetPath": "Forms\\Button.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVInputText.razor",
+      "TargetPath": "Forms\\SVInputText.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVInputGroup.razor",
+      "TargetPath": "Forms\\SVInputGroup.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DataGrid\\ReporterGrid\\SVReporterGrid.razor",
+      "TargetPath": "DataGrid\\ReporterGrid\\SVReporterGrid.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DataGrid\\SVColumn.razor",
+      "TargetPath": "DataGrid\\SVColumn.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\DataGrid\\SVPaginator.razor",
+      "TargetPath": "DataGrid\\SVPaginator.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Menu\\NavItemComponent.razor",
+      "TargetPath": "Menu\\NavItemComponent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\SVInputNumber.razor",
+      "TargetPath": "Forms\\SVInputNumber.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\DeveloperRepos2023\\SiviComponents\\SiviComponents\\Forms\\ValidationComponent.razor",
+      "TargetPath": "Forms\\ValidationComponent.razor",
       "FileKind": "component"
     }
   ],

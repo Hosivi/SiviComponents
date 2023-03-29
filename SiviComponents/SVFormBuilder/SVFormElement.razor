@@ -73,29 +73,38 @@
             builder.OpenRegion(0);
             if (FieldConfiguration.FormControlType == FormControlType.Select) {
                 CreateCustomFieldFragment(builder, FieldConfiguration);
+                builder.CloseComponent();
             }
             if (FieldConfiguration.FormControlType == FormControlType.Input) {
                 CreateInput(builder, FieldConfiguration);
+                builder.CloseComponent();
             }
             if (FieldConfiguration.FormControlType == FormControlType.Button) {
                 RenderControl(builder, FieldConfiguration);
             }
-            builder.CloseComponent();
             builder.CloseRegion();
         };
     }
 
-    private void RenderControl(RenderTreeBuilder builder, FieldConfiguration<TModel> f) {
+    private void RenderControl(RenderTreeBuilder builder, FieldConfiguration<TModel> f)
+    {
         var i = 0;
-        builder.OpenComponent(i++, typeof(Button));
+        builder.OpenElement(i, "div");
+        builder.AddAttribute(i++, "class", "form-block text-center");
+        builder.OpenComponent<Button>(i++);
+        builder.AddAttribute(i++, "Type", f.ButtonType);
         builder.AddAttribute(i++, "ButtonText", f.Label);
-        builder.AddAttribute(i++, "ButtonType", f.ButtonType);
-        if (f.Onclick != null) {
+        builder.AddAttribute(i++, "NavItem", f.NavItem);
+        if (f.Onclick != null)
+        {
             builder.AddAttribute(i++, "Onclick", EventCallback.Factory.Create<object>(this, x => { f.Onclick.Invoke(x); }));
         }
-        if (f.OnButtonNavigate != null) {
-            builder.AddAttribute(i++, "Onclick", EventCallback.Factory.Create<NavItem>(this, x => { f.OnButtonNavigate.Invoke(x); }));
+        if (f.OnButtonNavigate != null)
+        {
+            builder.AddAttribute(i++, "OnNavigate", EventCallback.Factory.Create<NavItem>(this, x => { f.OnButtonNavigate.Invoke(x); }));
         }
+        builder.CloseComponent();
+        builder.CloseElement();
     }
 
     private void CreateCustomFieldFragment(RenderTreeBuilder builder, FieldConfiguration<TModel> f) {
